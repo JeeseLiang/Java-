@@ -1,0 +1,5 @@
+package com.tedu.manager;
+
+public enum GameElement {
+    MAP,PLAY,BOSS,EMENY,PLAYFILE,EMENYFILE,PRIZE,DEATH,TEST,BOOM,START,GAMEOVER,NEXTGAME,GAMEEND
+}
